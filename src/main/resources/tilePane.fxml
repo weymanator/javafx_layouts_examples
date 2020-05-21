@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<TilePane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="420.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <BorderPane maxHeight="200.0" maxWidth="200.0" minHeight="200.0" minWidth="200.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #FFEEA4#FFEEA4;">
+         <center>
+            <Label text="Item 1" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane maxHeight="200.0" maxWidth="200.0" minHeight="200.0" minWidth="200.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #E8D0A5#E8D0A5;">
+         <center>
+            <Label text="Item 2" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane maxHeight="200.0" maxWidth="200.0" minHeight="200.0" minWidth="200.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #FFDAC2#FFDAC2;">
+         <center>
+            <Label text="Item 3" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane maxHeight="210.0" maxWidth="210.0" minHeight="210.0" minWidth="210.0" prefHeight="210.0" prefWidth="210.0" style="-fx-background-color: #E8AEA5#E8AEA5;">
+         <center>
+            <Label text="Item 4" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane maxHeight="210.0" maxWidth="210.0" minHeight="210.0" minWidth="210.0" prefHeight="210.0" prefWidth="210.0" style="-fx-background-color: #FFB5D4#FFB5D4;">
+         <center>
+            <Label text="Item 5" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </children>
+</TilePane>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #33F2FF;">
+         <center>
+            <Label text="Element 1" textFill="#6b6b6b" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #2EE8C0;">
+         <center>
+            <Label text="Element 2" textFill="#5e5e5e" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #40FF9E;">
+         <center>
+            <Label text="Element 3" textFill="#575757" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #2EE857;">
+         <center>
+            <Label text="Element 4" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </children>
+</VBox>

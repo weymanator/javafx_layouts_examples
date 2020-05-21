@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<FlowPane columnHalignment="RIGHT" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="400.0" prefWidth="600.0" rowValignment="BOTTOM" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #59FF5D#59FF5D;">
+         <center>
+            <Label text="Item 1" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #81E851#81E851;">
+         <center>
+            <Label text="Item 2" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #CDFF66#CDFF66;">
+         <center>
+            <Label text="Item 3" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #E8E751#E8E751;">
+         <center>
+            <Label text="Item 4" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #FFEE59#FFEE59;">
+         <center>
+            <Label text="Item 5" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </children>
+</FlowPane>

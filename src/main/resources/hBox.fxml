@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #FF9754;">
+         <center>
+            <Label text="Element 1" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #E8734d;">
+         <center>
+            <Label text="Element 2" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #FF7061;">
+         <center>
+            <Label text="Element 3" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #E84D65;">
+         <center>
+            <Label text="Element 4" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </children>
+</HBox>

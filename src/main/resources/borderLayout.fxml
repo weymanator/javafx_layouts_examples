@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <BorderPane prefHeight="100.0" prefWidth="0.0" style="-fx-background-color: #2500FF;" BorderPane.alignment="CENTER">
+         <center>
+            <Label text="Top" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </top>
+   <left>
+      <BorderPane prefHeight="200.0" prefWidth="100.0" style="-fx-background-color: #1534E8;" BorderPane.alignment="CENTER">
+         <center>
+            <Label text="Left" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </left>
+   <center>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #2483FF;" BorderPane.alignment="CENTER">
+         <center>
+            <Label text="Center" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </center>
+   <right>
+      <BorderPane prefHeight="0.0" prefWidth="100.0" style="-fx-background-color: #15ADE8;" BorderPane.alignment="CENTER">
+         <center>
+            <Label text="Right" textFill="WHITE" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </right>
+   <bottom>
+      <BorderPane prefHeight="100.0" prefWidth="200.0" style="-fx-background-color: #17FFFD;" BorderPane.alignment="CENTER">
+         <center>
+            <Label text="Bottom" textFill="#727272" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </bottom>
+</BorderPane>
